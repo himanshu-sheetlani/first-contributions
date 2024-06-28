@@ -1,4 +1,5 @@
 # Contributors 
+- [himanshu-sheetlani](https://github.com/himanshu-sheetlani) [![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://github.com/himanshu-sheetlani) Hello I'm **Himanshu Sheetlani** from **India 🇮🇳** currently pursuing my bachelor's degree in engineering. This is my first contribution, I want to enter the world of open source and this is my first step towards it. Feel free to connect with me on [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://linkedin.com/in/himanshu-sheetlani) 
 - [Raghav Angra]
 - [Thu Rain Ko] 
 - [Swapnil](https://github.com/swapnilpatil-github/) Hmm!!!Lets Do This 💪🔥
@@ -17,10 +18,7 @@
 - [angad363](https://github.com/angad363) **My first open source contribution!!**
 - [Ayid Sudirman](https://github.com/a10n-jsd) | **I use a computer to build things** 
 - [dakotaepton](https://github.com/dakotaepton) **Way too late to the contributor party but let's get it.**
-- [himanshu-sheetlani](https://github.com/himanshu-sheetlani) [![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://github.com/himanshu-sheetlani) Hello I'm **Himanshu Sheetlani** from **India 🇮🇳** currently pursuing my bachelor's degree in engineering. This is my first contribution, I want to enter the world of open source and this is my first step towards it. Feel free to connect with me on [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://linkedin.com/in/himanshu-sheetlani) 
-himanshu
-SahilDhavale
-[ZMH](https://github.com/tharthar2019)
+
 - [Goku Kakarot](https://github.com/goku-kakarot-7227) **Hello I am Goku from Dragon Ball Z**
 - [Akil Makda](https://github.com/akilmakda) **Hello, I'm Akil From India** [Linkedin](https://www.linkedin.com/in/akilmakda/) **My First Contribution**
 - [Minseo Park](https://github.com/parkj12b) **Hello, I'm minseo from South Korea**
